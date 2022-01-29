@@ -1,0 +1,1 @@
+result of two strings, hello folks this is first txt
